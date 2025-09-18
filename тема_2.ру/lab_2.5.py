@@ -1,0 +1,5 @@
+x1 = input('1: ')
+x2 = input('2: ')
+x3 = input('3: ')
+x4 = input('4: ')
+print(x1, x2, x3, x4)
