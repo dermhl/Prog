@@ -28,7 +28,7 @@ else:
     print('Не выполняется')
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_1.png)
 
 ## Выводы
 
@@ -45,7 +45,7 @@ else:
     print('Переменная больше 10')
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_2.png)
 
 ## Выводы
 
@@ -69,7 +69,7 @@ else:
     print('Переменной нет в этом массиве')
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_3.png)
 
 ## Выводы
 
@@ -97,7 +97,7 @@ else:
     print(f"Переменной нет в массиве numbers и она равна {value}")
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_4.png)
 
 ## Выводы
 
@@ -127,7 +127,7 @@ for i in range(10):
         break
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_5.png)
 
 ## Выводы
 
@@ -148,7 +148,7 @@ else:
     print(f"Буквы '{value}' нет в указанной строке")
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_6.png)
 
 ## Выводы
 
@@ -172,7 +172,7 @@ for i in range(16, -1, -1):
     print(i, value)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_7.png)
 
 ## Выводы
 
@@ -195,7 +195,7 @@ while value < 100:
     print(value)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_8.png)
 
 ## Выводы
 
@@ -218,7 +218,7 @@ for i in range(10):
 print(value)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_9.png)
 
 ## Выводы
 
@@ -242,7 +242,7 @@ else:
     print('В массиве все числе четные')
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_10.png)
 
 ## Выводы
 
