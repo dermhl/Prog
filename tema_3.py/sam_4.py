@@ -1,0 +1,7 @@
+sentence = input("Введите предложение: ")
+print("Длина:", len(sentence))
+print("В нижнем регистре:", sentence.lower())
+print("Гласных:", sum(c in 'aeiou' for c in sentence.lower()))
+print("Заменено 'ugly' на 'beauty':", sentence.replace('ugly', 'beauty'))
+print("Начинается с 'The':", sentence.startswith('The'))
+print("Заканчивается на 'end':", sentence.endswith('end'))
