@@ -294,7 +294,7 @@ for _ in range(2):
 print(a)
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/pic/pic/сам_1.png)
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/сам_1.png)
 
 ## Выводы
 
@@ -319,7 +319,7 @@ for ch in s[::-1]:
     print(ch)
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/pic/pic/сам_2.png)
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/сам_2.png)
 
 ## Выводы
 
@@ -349,7 +349,7 @@ else:
         print("от 6 до 10")
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/pic/pic/сам_3.png)
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/сам_3.png)
 
 ## Выводы
 
@@ -381,7 +381,7 @@ print("Начинается с 'The':", sentence.startswith('The'))
 print("Заканчивается на 'end':", sentence.endswith('end'))
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/pic/pic/сам_4.png)
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/сам_4.png)
 
 ## Выводы
 
@@ -411,7 +411,7 @@ while counter != 11:
     counter += 1
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/pic/pic/сам_5.png)
+![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/сам_5.png)
 
 ## Выводы
 
