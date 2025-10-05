@@ -26,7 +26,7 @@ if __name__ == '__main__':
     main()
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_1.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/lab_1.png)
 
 ## Выводы
 
@@ -48,7 +48,7 @@ if __name__ == '__main__':
     print(main())
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_2.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/lab_2.png)
 
 ## Выводы
 
@@ -74,7 +74,7 @@ for i in range(5):
     print(answer)
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_3.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/lab_3.png)
 
 ## Выводы
 
@@ -101,7 +101,7 @@ if __name__ == "__main__":
     print(f"\nresult={result}")
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_4.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/lab_4.png)
 
 ## Выводы
 
@@ -134,7 +134,7 @@ if __name__ == "__main__":
     main(**{'x':[1,2,3], 'y':[3,3,0]})
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_5.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/lab_5.png)
 
 ## Выводы
 
@@ -162,7 +162,7 @@ if __name__ == '__main__':
     main(x=[1,2,3], y=[3,6,2])
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_6.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/lab_6.png)
 
 ## Выводы
 
@@ -189,7 +189,7 @@ if __name__ == "__main__":
     talk()
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_7.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/lab_7.png)
 
 ## Выводы
 
@@ -216,7 +216,7 @@ if __name__ == '__main__':
     main()
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_8.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/lab_8.png)
 
 ## Выводы
 
@@ -255,7 +255,7 @@ if __name__ == "__main__":
     main()
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_9.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/lab_9.png)
 
 ## Выводы
 
@@ -293,7 +293,7 @@ elif figure == "2":
 print(f"Площадь: {result}")
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/лаба_10.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/lab_10.png)
 
 ## Выводы
 
@@ -341,7 +341,7 @@ if __name__ == '__main__':  # Проверяем, что скрипт запущ
     print(f"Время выполнения программы - {time_costs}") # Выводим время выполнения программы в читаемом формате
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/сам_1.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/sam_1.png)
 
 ## Выводы
 
@@ -377,7 +377,7 @@ if __name__ == '__main__':
     kubik()
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/сам_2.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/sam_2.png)
 
 ## Выводы
 
@@ -399,7 +399,7 @@ for i in range(5):
     time.sleep(1) #усыпить на 1 секунду
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/сам_3.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/sam_3.png)
 
 ## Выводы
 
@@ -426,7 +426,7 @@ if __name__ == '__main__':
     srednee(2, 6, 9, 1, 7, 13, 2)
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/сам_4.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/sam_4.png)
 
 ## Выводы
 
@@ -466,7 +466,7 @@ if __name__ == '__main__':
     main()
 ```
 ### Результат.
-![Меню](https://github.com/dermhl/Prog/blob/tema_3/pic/сам_5.png)
+![Меню](https://github.com/dermhl/Prog/blob/Tema_4/pic/sam_5.png)
 
 ## Выводы
 
